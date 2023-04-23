@@ -3,9 +3,10 @@
 *Kelompok           : A4
 *Hari dan Tanggal   : 
 *Asisten (NIM)      : Eunike Kristianti (18320019)
-*Nama File          : tubes
+*Nama File          : tubes.c
 *Deskripsi          : Penyelesaian markas militer negara api dengan convex hull algorithm
 */
+
 
 #include <stdio.h>
 #include <stdlib.h>
